@@ -14,8 +14,15 @@ If you want to contribute in `Mind-Blwoing-DSA-Problem` you are most welcome, pu
 | 2 | [M-B-ALGO](Algo-Problem) | HE,HR,CF,IB | CPP, PYTHON |
 
 
-### Problem-Description
+#### Problem-Description
 
-| Index | Topics       | Platforms           |  Programming-Language |
-|:---:|:-------------:|:-------------:|-------------:|
-| 1 | [Basic-Operation](Basic-Operation) | -- | CPP, PYTHON |
+`Write all the basic operation used in Linked List`
+
+1. Insertion -- Begining, at given postion, at last
+
+2. Deletion -- Begining, at given postion, at last
+
+3. Traversal
+
+`Solution is provided in the python and cpp`
+
