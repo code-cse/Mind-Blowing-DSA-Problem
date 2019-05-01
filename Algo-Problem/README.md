@@ -10,8 +10,8 @@ If you want to contribute in `Mind-Blwoing-DSA-Problem` you are most welcome, pu
 #### Mind-Blowing-Advanced-Algorithm
 | Index | Topics       | Platforms           |  Programming-Language |
 |:---:|:-------------:|:-------------:|-------------:|
-| 1 | [M-B-DS](DS-Problem) | HE,HR,CF,IB | CPP, PYTHON |
-| 2 | [M-B-ALGO](Algo-Problem) | HE,HR,CF,IB | CPP, PYTHON |
+| 1 | [M-B-DS](../DS-Problem) | HE,HR,CF,IB | CPP, PYTHON |
+| 2 | [M-B-ALGO](../Algo-Problem) | HE,HR,CF,IB | CPP, PYTHON |
 
 
 ### Problem-Description
