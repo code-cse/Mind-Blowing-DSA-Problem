@@ -12,7 +12,8 @@ If you want to contribute in `Mind-Blwoing-DSA-Problem` you are most welcome, pu
 
 | Index | Topics       | Platforms           |  Programming-Language |
 |:---:|:-------------:|:-------------:|-------------:|
-| 1 | [MBDS](DS-Problem) | HE,HR,CF,IB | CPP, PYTHON |
+| 1 | [M-B-D-S](DS-Problem) | HE,HR,CF,IB | CPP, PYTHON |
+| 2 | [M-B-Algo](DS-Problem) | HE,HR,CF,IB | CPP, PYTHON |
 
 
 ### Mind-Blowing-Data-Structure
