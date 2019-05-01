@@ -5,7 +5,7 @@ problem asked by different `Compaines` and various `Coding-Competition.`
 
 If you want to contribute in `Mind-Blowing-DSA-Problem` you are most welcome, push to `seperate-branch` and create a `merge-request.`
 
-##### Platform Accornym -- || HR: HackerRank || || HE: HackerEarth || || CF: CodeForce || || IB: InterviewBit ||
+##### Platform Acronym -- || HR: HackerRank || || HE: HackerEarth || || CF: CodeForce || || IB: InterviewBit ||
 
 #### Mind-Blowing-Data-Structure
 | Index | Topics       | Platforms           |  Programming-Language |
